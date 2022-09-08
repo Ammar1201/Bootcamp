@@ -1,1 +1,1 @@
-# FullStackBootcamp
+# Exercises
